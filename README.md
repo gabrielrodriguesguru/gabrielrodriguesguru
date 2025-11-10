@@ -25,17 +25,16 @@
 # Main Skills:
 
   ![JAVA](https://img.shields.io/badge/java-EA7209?style=for-the-badge)&nbsp;
-  ![JS](https://img.shields.io/badge/javascript-yellow?style=for-the-badge)&nbsp;
+  ![TS](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge)&nbsp;
   ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ## Other Knowledge:
-
-![TS](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge)&nbsp;
-![PY](https://img.shields.io/badge/python-FDDB4B?style=for-the-badge)&nbsp;
+![JS](https://img.shields.io/badge/javascript-yellow?style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/html-E5532D?style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-419DDC?style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/C-2E3A96?style=for-the-badge)&nbsp;
+![PY](https://img.shields.io/badge/python-FDDB4B?style=for-the-badge)&nbsp;
 
 <!--
 <div align="center">
