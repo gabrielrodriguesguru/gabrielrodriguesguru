@@ -33,7 +33,7 @@
 ![JS](https://img.shields.io/badge/javascript-yellow?style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/html-E5532D?style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-419DDC?style=for-the-badge)&nbsp;
-![C](https://img.shields.io/badge/C-2E3A96?style=for-the-badge)&nbsp;
+![C++](https://img.shields.io/badge/C-2E3A96?style=for-the-badge)&nbsp;
 ![PY](https://img.shields.io/badge/python-FDDB4B?style=for-the-badge)&nbsp;
 
 <!--
