@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Rodrigues+de+Souza;I'm+23+years+old;I+am+from+Maringá,+PR;Computer+Science+graduate+from+UEM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Rodrigues+de+Souza;I'm+23+years+old;I+am+from+Maringá,+PR;Computer+Science+graduate+from+UEM;Be+Welcome!+:%29)](https://git.io/typing-svg](https://gifdb.com/images/high/jujutsu-kaisen-gojo-fight-pixel-l660bpsovpg256jo.webp))
 
 <div align="center">
   <em>"People can change the future, not the past. But someday, the future becomes the past too."</em>
