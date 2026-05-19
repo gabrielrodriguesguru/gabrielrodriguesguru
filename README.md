@@ -25,7 +25,7 @@
         <li>📖 Jujutsu Kaisen fan · Gojo Satoru enjoyer</li>
       </ul>
     </td>
-    <td valign="top" align="center" width="30%">
+    <td valign="middle" align="center" width="30%">
       <img src="https://gifdb.com/images/high/jujutsu-kaisen-gojo-fight-pixel-l660bpsovpg256jo.webp" width="150px" alt="Gojo Satoru pixel art"/>
     </td>
   </tr>
