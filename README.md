@@ -14,22 +14,13 @@
 
 ## About Me 無下限
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="70%">
-      <ul>
-        <li>🎌 From Maringá, PR — Brazil</li>
-        <li>🎓 Computer Science graduate from UEM</li>
-        <li>💻 Software Engineer Full Stack — Java · TypeScript · React · Node.js</li>
-        <li>🤖 Exploring the world of AI, LLMs and intelligent systems</li>
-        <li>📖 Jujutsu Kaisen fan · Gojo Satoru enjoyer</li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="30%">
-      <img src="https://gifdb.com/images/high/jujutsu-kaisen-gojo-fight-pixel-l660bpsovpg256jo.webp" width="150px" alt="Gojo Satoru pixel art"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://gifdb.com/images/high/jujutsu-kaisen-gojo-fight-pixel-l660bpsovpg256jo.webp" width="180px" alt="Gojo Satoru pixel art"/>
+
+- 🎌 From Maringá, PR — Brazil
+- 🎓 Computer Science graduate from UEM
+- 💻 Software Engineer Full Stack — Java · TypeScript · React · Node.js
+- 🤖 Exploring the world of AI, LLMs and intelligent systems
+- 📖 Jujutsu Kaisen fan · Gojo Satoru enjoyer
 
 ---
 
